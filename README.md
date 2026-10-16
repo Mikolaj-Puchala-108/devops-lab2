@@ -4,6 +4,8 @@ Nazwa projektu: DevOps Lab 2
 
 Cel: ćwiczenie podstaw Git i GitHub 
 
+
+
 Wykorzystane narzędzia: Git, GitHub, terminal 
 
 Instrukcja uruchomienia/pracy: 
