@@ -15,3 +15,13 @@ tworzy nowy brench
   git switch -c feature/update-readme  
 
 Autor: Mikołaj Puchała 
+
+Commit to lokalny zapis zmian w historii repozytorium na komputerze, który tworzy nowy punkt kontrolny.
+
+Push przesyła zapisane lokalnie commity na zdalny serwer, udostępniając je innym współpracownikom.
+
+Pull Request to zgłoszenie na platformie zdalnej z prośbą o przejrzenie kodu i scalenie go z docelową gałęzią.
+
+Git — historia zmian 
+
+GitHub — Pull Requesty i code review 
