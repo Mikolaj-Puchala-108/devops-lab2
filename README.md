@@ -4,9 +4,12 @@ Nazwa projektu: DevOps Lab 2
 
 Cel: ćwiczenie podstaw Git i GitHub 
 
+
+
 Wykorzystane narzędzia: Git, GitHub, terminal 
 
 Instrukcja uruchomienia/pracy: 
+
 
 klonowanie lokalne i wejście w folder
   git clone https://github.com/Mikolaj-Puchala-108/devops-lab2.git
