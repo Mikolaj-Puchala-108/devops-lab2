@@ -6,9 +6,12 @@ Cel: ćwiczenie podstaw Git i GitHub
 
 
 
+
+
 Wykorzystane narzędzia: Git, GitHub, terminal 
 
 Instrukcja uruchomienia/pracy: 
+
 
 
 klonowanie lokalne i wejście w folder
@@ -27,3 +30,13 @@ Push przesyła zapisane lokalnie commity na zdalny serwer, udostępniając je in
 
 
 Pull Request to zgłoszenie na platformie zdalnej z prośbą o przejrzenie kodu i scalenie go z docelową gałęzią.
+
+
+
+------------------
+Zadanie dodatkowe 
+Narzędzia zespołu
+
+Git — kontrola wersji 
+
+GitHub — współpraca nad kodem 
