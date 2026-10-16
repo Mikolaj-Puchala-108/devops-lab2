@@ -31,10 +31,6 @@ Push przesyła zapisane lokalnie commity na zdalny serwer, udostępniając je in
 
 Pull Request to zgłoszenie na platformie zdalnej z prośbą o przejrzenie kodu i scalenie go z docelową gałęzią.
 
-
-
-------------------
-Zadanie dodatkowe 
 Narzędzia zespołu
 
 Git — kontrola wersji 
