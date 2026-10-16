@@ -6,9 +6,12 @@ Cel: ćwiczenie podstaw Git i GitHub
 
 
 
+
+
 Wykorzystane narzędzia: Git, GitHub, terminal 
 
 Instrukcja uruchomienia/pracy: 
+
 
 
 klonowanie lokalne i wejście w folder
